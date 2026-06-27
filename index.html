@@ -2,6 +2,37 @@
 <html lang="en">
 
   <head>
+    <script>
+  // SPA base-path shim for GitHub Pages. Computes the project's base path from
+  // window.location.pathname and sets window.__WOUTER_BASE__ before the wouter
+  // Router (inside the React bundle) initializes. Wouter's Router uses this
+  // base to strip the project prefix from the current pathname before route
+  // matching, and to prepend it to all Link hrefs.
+  (function() {
+    try {
+      var p = location.pathname;
+      var last = p.replace(/\/$/, '').split('/').pop() || '';
+      var looksLikeFile = /\.[a-z0-9]{1,5}$/i.test(last);
+      var basePath;
+      if (looksLikeFile) {
+        // We're inside a file (e.g. /tennis-guide/index.html) -> base is the dir
+        basePath = p.substring(0, p.lastIndexOf('/') + 1);
+      } else {
+        // We're at a directory route -> base is the path with trailing slash
+        basePath = p.endsWith('/') ? p : p + '/';
+      }
+      // Optional ?from=... fallback for 404.html SPA routing (advanced)
+      var from = new URLSearchParams(location.search).get('from');
+      if (from) {
+        history.replaceState(history.state, '', from);
+      }
+      window.__WOUTER_BASE__ = basePath === '/' ? '' : basePath;
+      window.__SITE_BASE_PATH__ = basePath;
+    } catch (e) {
+      console.error('[base-path shim] failed:', e);
+    }
+  })();
+</script>
     <meta charset="UTF-8" />
     <meta
       name="viewport"
@@ -12,8 +43,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
     THIS IS THE END OF A COMMENT BLOCK, BLOCK TO BE DELETED -->
-    <script type="module" crossorigin src="/assets/index-BOcFCHpc.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-CY6GjlAB.css">
+    <script type="module" crossorigin src="./assets/index-BOcFCHpc.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-CY6GjlAB.css">
   <meta property="og:type" content="website">
 		<meta property="og:url" content="https://tennisguide-n9yvypk2.manus.space/">
 		<meta property="og:title" content="Tennis Control System Interactive Guide">

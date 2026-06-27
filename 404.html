@@ -1,0 +1,19 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>404 — Redirecting</title>
+<script>
+  // GitHub Pages SPA fallback: serve the SPA for any unknown route.
+  // This file is at the project root; the base-path shim in index.html
+  // will detect the prefix and rewrite history accordingly.
+  sessionStorage.setItem('__spa_404_from__', location.pathname + location.search + location.hash);
+  // Replace this URL with the site root, preserving the path as a query param
+  // so React Router can pick it up.
+  var base = '/tennis-guide/';
+  var target = location.pathname + location.search + location.hash;
+  if (target.indexOf(base) === 0) {
+    // already under base, just go to index
+    location.replace(base + '?from=' + encodeURIComponent(target.substring(base.length)));
+  } else {
+    location.replace(base);
+  }
+</script>
+</head><body>Redirecting...</body></html>
