@@ -2,96 +2,134 @@
   {
     "id": 0,
     "title": "Lời nói đầu",
-    "description": "Trong thế giới tennis hiện đại, ranh giới giữa chiến thắng và thất bại thường được quyết định bởi những lợi thế nhỏ nhất. Từ những cú giao bóng sấm sé"
+    "description": "Trong thế giới tennis hiện đại, ranh giới giữa chiến thắng và thất bại thường được quyết định bởi những lợi thế nhỏ nhất. Từ những cú giao bóng sấm sé",
+    "title_en": "Foreword",
+    "description_en": "In the modern world of tennis, the boundary between victory and defeat is often decided by the smallest advantages. From thunderbolt serves to the most delicate returns, every action on court is the result of a complex chain of decisions and a perfect coordination of mind, technique, and body. This manual opens a new perspective on tennis, where science, technology, and craft meet in pursuit of excellence."
   },
   {
     "id": 1,
     "title": "Chương 1: Giới thiệu về Hệ thống Điều khiển Tennis",
-    "description": "Tennis hiện đại là một môn thể thao đòi hỏi sự kết hợp tinh tế giữa thể chất, kỹ thuật, chiến thuật và tinh thần. Để đạt được hiệu suất cao nhất, ngườ"
+    "description": "Tennis hiện đại là một môn thể thao đòi hỏi sự kết hợp tinh tế giữa thể chất, kỹ thuật, chiến thuật và tinh thần. Để đạt được hiệu suất cao nhất, ngườ",
+    "title_en": "Chapter 1: Introduction to the Tennis Control System",
+    "description_en": "Modern tennis is a sport that demands a subtle blend of physical, technical, tactical, and mental elements. To reach peak performance, players need a complete control system — much like the control systems in engineering. This chapter introduces the Tennis Control System concept, a comprehensive model that helps players optimize every aspect of the game."
   },
   {
     "id": 2,
     "title": "Chương 2: Trực quan hóa trong Hệ thống Điều khiển Tennis Đa tầng",
-    "description": "Trong chương này, chúng ta sẽ đi sâu vào lớp đầu tiên và có lẽ là quan trọng nhất của hệ thống điều khiển tennis: **Trực quan hóa (Visualization)**. C"
+    "description": "Trong chương này, chúng ta sẽ đi sâu vào lớp đầu tiên và có lẽ là quan trọng nhất của hệ thống điều khiển tennis: **Trực quan hóa (Visualization)**. C",
+    "title_en": "Chapter 2: Visualization in the Multi-Layer Tennis Control System",
+    "description_en": "In this chapter we dive into the first — and arguably most important — layer of the tennis control system: **Visualization**. We explore how the player constructs a probability field in the mind, predicting ball trajectory and opponent intent before they actually occur."
   },
   {
     "id": 3,
     "title": "Chương 3: Hệ thống Dự đoán (Anticipation System) - Cẩm nang Huấn luyện",
-    "description": "Chương này tập trung vào việc xây dựng và rèn luyện **Hệ thống Dự đoán (Anticipation System)**. Chúng ta sẽ khám phá các thành phần của nó, cơ chế nén"
+    "description": "Chương này tập trung vào việc xây dựng và rèn luyện **Hệ thống Dự đoán (Anticipation System)**. Chúng ta sẽ khám phá các thành phần của nó, cơ chế nén",
+    "title_en": "Chapter 3: The Anticipation System — Training Manual",
+    "description_en": "This chapter focuses on building and training the **Anticipation System**. We explore its components, the decision-compression mechanism, and how to train the ability to read early cues from the opponent — helping the player react faster and more accurately."
   },
   {
     "id": 4,
     "title": "Chương 4: Cơ chế Định hình trước (Pre-shaping Mechanics) - Cơ thể như một Nhà máy Điều khiển",
-    "description": "Chương này xem xét cơ thể người chơi như một **Nhà máy Điều khiển (Control Plant)** và đi sâu vào các khía cạnh kỹ thuật của quá trình Định hình trước"
+    "description": "Chương này xem xét cơ thể người chơi như một **Nhà máy Điều khiển (Control Plant)** và đi sâu vào các khía cạnh kỹ thuật của quá trình Định hình trước",
+    "title_en": "Chapter 4: Pre-shaping Mechanics — The Body as a Control Plant",
+    "description_en": "This chapter treats the player's body as a **Control Plant** and dives into the technical aspects of Pre-shaping. We learn how to establish the optimal body state before the ball arrives — reducing degrees of freedom and laying the foundation for a high-quality stroke."
   },
   {
     "id": 5,
     "title": "Chương 5: Thực thi cú đánh như một Hệ thống Điều chỉnh vi mô - Vật lý tiếp xúc và Thời gian thần kinh",
-    "description": "Chương này định nghĩa lại khái niệm về \"cú đánh\" và khám phá cơ chế điều chỉnh vi mô diễn ra trong cửa sổ thời gian cực ngắn của sự tiếp xúc."
+    "description": "Chương này định nghĩa lại khái niệm về \"cú đánh\" và khám phá cơ chế điều chỉnh vi mô diễn ra trong cửa sổ thời gian cực ngắn của sự tiếp xúc.",
+    "title_en": "Chapter 5: Executing the Stroke as a Micro-Adjustment System — Contact Physics and Neural Timing",
+    "description_en": "This chapter redefines the concept of the \"stroke\" and explores the micro-adjustment mechanism that occurs in the extremely short window of contact. We cover contact physics, neural timing, and how the micro-adjustment system operates to optimize the stroke."
   },
   {
     "id": 6,
     "title": "Chương 6: Thư viện Bài tập Huấn luyện Toàn diện",
-    "description": "Sau khi đã hiểu rõ các nguyên lý về Hệ thống Dự đoán, Cơ chế Định hình trước và Thực thi cú đánh như một hệ thống điều chỉnh vi mô, chương này sẽ cung"
+    "description": "Sau khi đã hiểu rõ các nguyên lý về Hệ thống Dự đoán, Cơ chế Định hình trước và Thực thi cú đánh như một hệ thống điều chỉnh vi mô, chương này sẽ cung",
+    "title_en": "Chapter 6: A Comprehensive Drill Library",
+    "description_en": "Having established the principles of the Anticipation System, Pre-shaping Mechanics, and Micro-Adjustment Execution, this chapter provides a comprehensive drill library. Each drill is designed to target one or more layers of the tennis control system, helping the player develop in a structured way."
   },
   {
     "id": 7,
     "title": "Chương 7: Chương trình Huấn luyện Điều khiển Tennis 4-8 Tuần",
-    "description": "Chương này trình bày một **Chương trình Huấn luyện Điều khiển Tennis 4-8 Tuần (4-8 Week Tennis Control Curriculum)** được thiết kế để chuyển đổi người"
+    "description": "Chương này trình bày một **Chương trình Huấn luyện Điều khiển Tennis 4-8 Tuần (4-8 Week Tennis Control Curriculum)** được thiết kế để chuyển đổi người",
+    "title_en": "Chapter 7: 4–8 Week Tennis Control Curriculum",
+    "description_en": "This chapter presents a **4–8 Week Tennis Control Curriculum** designed to transition the player from reactive play to proactive, controlled play. The curriculum is divided into clear phases, each targeting a specific set of skills."
   },
   {
     "id": 8,
     "title": "Chương 8: Mô phỏng Đối thủ AI (AI Match Simulator) - Đối thủ Hỗn loạn và Hệ thống Điều khiển Phản hồi",
-    "description": "Trong các chương trước, chúng ta đã xây dựng một mô hình toàn diện về hệ thống điều khiển tennis, từ trực quan hóa đến định hình trước và thực thi cú "
+    "description": "Trong các chương trước, chúng ta đã xây dựng một mô hình toàn diện về hệ thống điều khiển tennis, từ trực quan hóa đến định hình trước và thực thi cú ",
+    "title_en": "Chapter 8: AI Match Simulator — The Chaotic Opponent and Feedback Control System",
+    "description_en": "In earlier chapters we built a comprehensive model of the tennis control system — from visualization through pre-shaping to stroke execution. This chapter introduces a powerful tool for training and testing that system: the **AI Match Simulator** — a chaotic opponent that helps the player develop adaptive capability and feedback control."
   },
   {
     "id": 9,
     "title": "Chương 9: Tích hợp Hệ thống Điều khiển Tennis Hoàn chỉnh (PID + Fuzzy + Feedforward)",
-    "description": "Trong các chương trước, chúng ta đã phân tích từng thành phần riêng lẻ của hệ thống điều khiển tennis: Visualization, Pre-shaping và Execution. Chương"
+    "description": "Trong các chương trước, chúng ta đã phân tích từng thành phần riêng lẻ của hệ thống điều khiển tennis: Visualization, Pre-shaping và Execution. Chương",
+    "title_en": "Chapter 9: Integrating the Complete Tennis Control System (PID + Fuzzy + Feedforward)",
+    "description_en": "Earlier chapters analyzed each component of the tennis control system separately: Visualization, Pre-shaping, and Execution. This chapter integrates them into a complete system, combining advanced control techniques such as PID, Fuzzy Logic, and Feedforward Control."
   },
   {
     "id": 10,
     "title": "Chương 10: Hệ thống Tennis Thần kinh-Fascia (Neural-Fascia Tennis System) - Tích hợp Sóng cơ thể, Thời gian và Kình",
-    "description": "Trong khi các chương trước đã tập trung vào các khía cạnh nhận thức và vận động của hệ thống điều khiển tennis, chương này sẽ đưa chúng ta đến một cấp"
+    "description": "Trong khi các chương trước đã tập trung vào các khía cạnh nhận thức và vận động của hệ thống điều khiển tennis, chương này sẽ đưa chúng ta đến một cấp",
+    "title_en": "Chapter 10: The Neural-Fascia Tennis System — Integrating Body Waves, Timing, and Kinetic Force",
+    "description_en": "While earlier chapters focused on the cognitive and motor aspects of the tennis control system, this chapter takes us a level deeper via the **Neural-Fascia Tennis System**. We explore how the nervous system and the fascia network interact to produce body waves, optimize timing, and transmit kinetic force."
   },
   {
     "id": 11,
     "title": "Chương 11: Các Khía cạnh Tâm lý và Nhận thức trong Hệ thống Điều khiển Tennis",
-    "description": "Trong khi các chương trước đã tập trung vào các khía cạnh kỹ thuật và vật lý của hệ thống điều khiển tennis, chương này sẽ đi sâu vào **Các Khía cạnh "
+    "description": "Trong khi các chương trước đã tập trung vào các khía cạnh kỹ thuật và vật lý của hệ thống điều khiển tennis, chương này sẽ đi sâu vào **Các Khía cạnh ",
+    "title_en": "Chapter 11: Psychological and Cognitive Aspects of the Tennis Control System",
+    "description_en": "Earlier chapters focused on the technical and physical aspects of the tennis control system. This chapter dives into the **Psychological and Cognitive Aspects** — how the mind affects every facet of the game, from focus to the ability to handle pressure."
   },
   {
     "id": 12,
     "title": "Chương 12: Phân tích Dữ liệu Nâng cao và Học máy trong Tennis",
-    "description": "Trong kỷ nguyên số hóa, dữ liệu đã trở thành một tài sản vô giá trong mọi lĩnh vực, và tennis không phải là ngoại lệ. Chương này sẽ đi sâu vào **Phân "
+    "description": "Trong kỷ nguyên số hóa, dữ liệu đã trở thành một tài sản vô giá trong mọi lĩnh vực, và tennis không phải là ngoại lệ. Chương này sẽ đi sâu vào **Phân ",
+    "title_en": "Chapter 12: Advanced Data Analytics and Machine Learning in Tennis",
+    "description_en": "In the digital era, data has become an invaluable asset in every field — and tennis is no exception. This chapter dives into **Advanced Data Analytics and Machine Learning in Tennis**, introducing modern analysis tools and techniques that help players and coaches make data-driven decisions."
   },
   {
     "id": 13,
     "title": "Chương 13: Tương lai của Huấn luyện Tennis: Thực tế ảo, Thực tế tăng cường và Phản hồi Sinh học",
-    "description": "Khi công nghệ tiếp tục phát triển với tốc độ chóng mặt, tương lai của huấn luyện tennis hứa hẹn sẽ được định hình bởi các công cụ và phương pháp tiên "
+    "description": "Khi công nghệ tiếp tục phát triển với tốc độ chóng mặt, tương lai của huấn luyện tennis hứa hẹn sẽ được định hình bởi các công cụ và phương pháp tiên ",
+    "title_en": "Chapter 13: The Future of Tennis Training — VR, AR, and Biofeedback",
+    "description_en": "As technology continues to evolve at breathtaking speed, the future of tennis training will be shaped by cutting-edge tools and methods. This chapter explores the role of **Virtual Reality (VR), Augmented Reality (AR), and Biofeedback** in elevating training performance."
   },
   {
     "id": 14,
     "title": "Chương 14: Các Nghiên cứu Điển hình và Ứng dụng Thực tế",
-    "description": "Để minh họa rõ hơn các khái niệm và nguyên lý đã được trình bày trong các chương trước, Chương 14 sẽ giới thiệu một loạt **Các Nghiên cứu Điển hình (C"
+    "description": "Để minh họa rõ hơn các khái niệm và nguyên lý đã được trình bày trong các chương trước, Chương 14 sẽ giới thiệu một loạt **Các Nghiên cứu Điển hình (C",
+    "title_en": "Chapter 14: Case Studies and Practical Applications",
+    "description_en": "To better illustrate the concepts and principles covered in earlier chapters, Chapter 14 presents a series of **Case Studies**. Each case study describes a real-world situation, how the tennis control system was applied to solve the problem, and the results achieved."
   },
   {
     "id": 15,
     "title": "Chương 15: Kết luận và Tầm nhìn Tương lai",
-    "description": "Trong suốt cuốn cẩm nang này, chúng ta đã đi sâu vào một mô hình toàn diện về Hệ thống Điều khiển Tennis, từ các nguyên lý cơ bản của Visualization, P"
+    "description": "Trong suốt cuốn cẩm nang này, chúng ta đã đi sâu vào một mô hình toàn diện về Hệ thống Điều khiển Tennis, từ các nguyên lý cơ bản của Visualization, P",
+    "title_en": "Chapter 15: Conclusion and Future Vision",
+    "description_en": "Throughout this manual we have explored a comprehensive model of the Tennis Control System — from the foundational principles of Visualization, Pre-shaping, and Execution to advanced applications. This final chapter summarizes the core principles and presents a vision for the future of tennis."
   },
   {
     "id": 16,
     "title": "Phụ lục A: Thuật ngữ và Định nghĩa",
-    "description": "Phụ lục này cung cấp một danh sách các thuật ngữ quan trọng và định nghĩa của chúng được sử dụng trong cuốn cẩm nang này, nhằm đảm bảo sự rõ ràng và n"
+    "description": "Phụ lục này cung cấp một danh sách các thuật ngữ quan trọng và định nghĩa của chúng được sử dụng trong cuốn cẩm nang này, nhằm đảm bảo sự rõ ràng và n",
+    "title_en": "Appendix A: Terminology and Definitions",
+    "description_en": "This appendix provides a list of important terms and their definitions used throughout the manual, to ensure clarity and consistency in understanding the concepts."
   },
   {
     "id": 17,
     "title": "Phụ lục B: Tài liệu Tham khảo",
-    "description": "Phụ lục này liệt kê các tài liệu tham khảo và nguồn thông tin đã được sử dụng hoặc gợi ý để xây dựng nội dung của cuốn cẩm nang này. Đây là những nguồ"
+    "description": "Phụ lục này liệt kê các tài liệu tham khảo và nguồn thông tin đã được sử dụng hoặc gợi ý để xây dựng nội dung của cuốn cẩm nang này. Đây là những nguồ",
+    "title_en": "Appendix B: References",
+    "description_en": "This appendix lists the references and information sources used or suggested in building the content of this manual. These are reliable sources for readers who wish to explore the concepts presented here in greater depth."
   },
   {
     "id": 18,
     "title": "Phụ lục C: Giới thiệu về Tác giả",
-    "description": "Cuốn cẩm nang này được biên soạn bởi **Tennis Future Lab**, một mô hình ngôn ngữ lớn được đào tạo bởi Google. Với khả năng tổng hợp và phân tích thông tin từ n"
+    "description": "Cuốn cẩm nang này được biên soạn bởi **Tennis Future Lab**, một mô hình ngôn ngữ lớn được đào tạo bởi Google. Với khả năng tổng hợp và phân tích thông tin từ n",
+    "title_en": "Appendix C: About the Author",
+    "description_en": "This manual was compiled by **Tennis Future Lab**, a large language model trained by Google. With the ability to synthesize and analyze information from many different sources, Tennis Future Lab has distilled deep knowledge of sports science, control engineering, psychology, and technology into a comprehensive and structured training document."
   }
 ]
