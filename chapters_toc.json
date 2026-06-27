@@ -1,0 +1,97 @@
+[
+  {
+    "id": 0,
+    "title": "Lời nói đầu",
+    "description": "Trong thế giới tennis hiện đại, ranh giới giữa chiến thắng và thất bại thường được quyết định bởi những lợi thế nhỏ nhất. Từ những cú giao bóng sấm sé"
+  },
+  {
+    "id": 1,
+    "title": "Chương 1: Giới thiệu về Hệ thống Điều khiển Tennis",
+    "description": "Tennis hiện đại là một môn thể thao đòi hỏi sự kết hợp tinh tế giữa thể chất, kỹ thuật, chiến thuật và tinh thần. Để đạt được hiệu suất cao nhất, ngườ"
+  },
+  {
+    "id": 2,
+    "title": "Chương 2: Trực quan hóa trong Hệ thống Điều khiển Tennis Đa tầng",
+    "description": "Trong chương này, chúng ta sẽ đi sâu vào lớp đầu tiên và có lẽ là quan trọng nhất của hệ thống điều khiển tennis: **Trực quan hóa (Visualization)**. C"
+  },
+  {
+    "id": 3,
+    "title": "Chương 3: Hệ thống Dự đoán (Anticipation System) - Cẩm nang Huấn luyện",
+    "description": "Chương này tập trung vào việc xây dựng và rèn luyện **Hệ thống Dự đoán (Anticipation System)**. Chúng ta sẽ khám phá các thành phần của nó, cơ chế nén"
+  },
+  {
+    "id": 4,
+    "title": "Chương 4: Cơ chế Định hình trước (Pre-shaping Mechanics) - Cơ thể như một Nhà máy Điều khiển",
+    "description": "Chương này xem xét cơ thể người chơi như một **Nhà máy Điều khiển (Control Plant)** và đi sâu vào các khía cạnh kỹ thuật của quá trình Định hình trước"
+  },
+  {
+    "id": 5,
+    "title": "Chương 5: Thực thi cú đánh như một Hệ thống Điều chỉnh vi mô - Vật lý tiếp xúc và Thời gian thần kinh",
+    "description": "Chương này định nghĩa lại khái niệm về \"cú đánh\" và khám phá cơ chế điều chỉnh vi mô diễn ra trong cửa sổ thời gian cực ngắn của sự tiếp xúc."
+  },
+  {
+    "id": 6,
+    "title": "Chương 6: Thư viện Bài tập Huấn luyện Toàn diện",
+    "description": "Sau khi đã hiểu rõ các nguyên lý về Hệ thống Dự đoán, Cơ chế Định hình trước và Thực thi cú đánh như một hệ thống điều chỉnh vi mô, chương này sẽ cung"
+  },
+  {
+    "id": 7,
+    "title": "Chương 7: Chương trình Huấn luyện Điều khiển Tennis 4-8 Tuần",
+    "description": "Chương này trình bày một **Chương trình Huấn luyện Điều khiển Tennis 4-8 Tuần (4-8 Week Tennis Control Curriculum)** được thiết kế để chuyển đổi người"
+  },
+  {
+    "id": 8,
+    "title": "Chương 8: Mô phỏng Đối thủ AI (AI Match Simulator) - Đối thủ Hỗn loạn và Hệ thống Điều khiển Phản hồi",
+    "description": "Trong các chương trước, chúng ta đã xây dựng một mô hình toàn diện về hệ thống điều khiển tennis, từ trực quan hóa đến định hình trước và thực thi cú "
+  },
+  {
+    "id": 9,
+    "title": "Chương 9: Tích hợp Hệ thống Điều khiển Tennis Hoàn chỉnh (PID + Fuzzy + Feedforward)",
+    "description": "Trong các chương trước, chúng ta đã phân tích từng thành phần riêng lẻ của hệ thống điều khiển tennis: Visualization, Pre-shaping và Execution. Chương"
+  },
+  {
+    "id": 10,
+    "title": "Chương 10: Hệ thống Tennis Thần kinh-Fascia (Neural-Fascia Tennis System) - Tích hợp Sóng cơ thể, Thời gian và Kình",
+    "description": "Trong khi các chương trước đã tập trung vào các khía cạnh nhận thức và vận động của hệ thống điều khiển tennis, chương này sẽ đưa chúng ta đến một cấp"
+  },
+  {
+    "id": 11,
+    "title": "Chương 11: Các Khía cạnh Tâm lý và Nhận thức trong Hệ thống Điều khiển Tennis",
+    "description": "Trong khi các chương trước đã tập trung vào các khía cạnh kỹ thuật và vật lý của hệ thống điều khiển tennis, chương này sẽ đi sâu vào **Các Khía cạnh "
+  },
+  {
+    "id": 12,
+    "title": "Chương 12: Phân tích Dữ liệu Nâng cao và Học máy trong Tennis",
+    "description": "Trong kỷ nguyên số hóa, dữ liệu đã trở thành một tài sản vô giá trong mọi lĩnh vực, và tennis không phải là ngoại lệ. Chương này sẽ đi sâu vào **Phân "
+  },
+  {
+    "id": 13,
+    "title": "Chương 13: Tương lai của Huấn luyện Tennis: Thực tế ảo, Thực tế tăng cường và Phản hồi Sinh học",
+    "description": "Khi công nghệ tiếp tục phát triển với tốc độ chóng mặt, tương lai của huấn luyện tennis hứa hẹn sẽ được định hình bởi các công cụ và phương pháp tiên "
+  },
+  {
+    "id": 14,
+    "title": "Chương 14: Các Nghiên cứu Điển hình và Ứng dụng Thực tế",
+    "description": "Để minh họa rõ hơn các khái niệm và nguyên lý đã được trình bày trong các chương trước, Chương 14 sẽ giới thiệu một loạt **Các Nghiên cứu Điển hình (C"
+  },
+  {
+    "id": 15,
+    "title": "Chương 15: Kết luận và Tầm nhìn Tương lai",
+    "description": "Trong suốt cuốn cẩm nang này, chúng ta đã đi sâu vào một mô hình toàn diện về Hệ thống Điều khiển Tennis, từ các nguyên lý cơ bản của Visualization, P"
+  },
+  {
+    "id": 16,
+    "title": "Phụ lục A: Thuật ngữ và Định nghĩa",
+    "description": "Phụ lục này cung cấp một danh sách các thuật ngữ quan trọng và định nghĩa của chúng được sử dụng trong cuốn cẩm nang này, nhằm đảm bảo sự rõ ràng và n"
+  },
+  {
+    "id": 17,
+    "title": "Phụ lục B: Tài liệu Tham khảo",
+    "description": "Phụ lục này liệt kê các tài liệu tham khảo và nguồn thông tin đã được sử dụng hoặc gợi ý để xây dựng nội dung của cuốn cẩm nang này. Đây là những nguồ"
+  },
+  {
+    "id": 18,
+    "title": "Phụ lục C: Giới thiệu về Tác giả",
+    "description": "Cuốn cẩm nang này được biên soạn bởi **Manus AI**, một mô hình ngôn ngữ lớn được đào tạo bởi Google. Với khả năng tổng hợp và phân tích thông tin từ n"
+  }
+]
